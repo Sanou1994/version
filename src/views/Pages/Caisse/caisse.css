@@ -1,0 +1,67 @@
+
+h2{
+    text-align: center;
+}
+.material-icons{
+    font-weight:10px !important;
+   
+}
+#card1{
+    margin-bottom: 1.5rem;
+    height: 100px;
+}
+
+th,td {
+    width: 8.33% !important;
+}
+
+.ico2{
+
+    font-size: 20px;
+}
+.ico{
+    margin-left: 3px;
+    font-size: 20px;
+    color:rgb(247, 12, 12);
+    
+}
+.icoIm{
+    margin-left: 3px;
+    font-size: 20px;
+    color:rgb(45, 240, 110);
+    
+}
+.actions{
+    padding:0px !important;
+    margin-top: 10px !important;
+    text-align: center;
+    padding-top: 10px !important;
+}
+.ico2:hover{
+cursor: pointer;
+
+}
+.ico:hover{
+    cursor: pointer;
+    color:red !important;
+}
+.icoIm:hover{
+    cursor: pointer;
+    color:rgb(10, 199, 73);
+}
+
+.mdecaissemnt,.msg{
+    display: none;
+}
+.m {
+    margin-right: 0.5rem !important;
+    width: 150px;
+    height: 60px;
+    font-size: 25px;
+}
+
+.exporter-caisse-jour {
+    margin-left:450px ;
+    margin-top: 20px;
+}
+

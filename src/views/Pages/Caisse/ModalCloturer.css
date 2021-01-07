@@ -1,0 +1,13 @@
+
+
+
+
+h2{
+    text-align: right;
+}
+.modale2 {
+    border-radius: 400px !important;
+    /* overflow: hidden; */
+    width: 100px ;
+    background-color:darkslategray;
+}

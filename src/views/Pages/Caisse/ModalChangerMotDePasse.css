@@ -1,0 +1,21 @@
+
+
+.react-responsive-modal-modal {
+	width: 650px ;
+
+}
+
+h2{
+    text-align: right;
+}
+.modale3 {
+    border-radius: 400px !important;
+    /* overflow: hidden; */
+    width: 100px ;
+    background-color:darkslategray;
+}
+
+#msgerror{
+    color:red;
+    margin-top: 20px;
+}

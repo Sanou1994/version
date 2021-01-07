@@ -1,0 +1,15 @@
+
+
+h2{
+    text-align: center;
+}
+.modale {
+    border-radius: 400px !important;
+    /* overflow: hidden; */
+    width: 650px ;
+    background-color:darkslategray;
+}
+
+.validerDebute{
+    float: right;
+}

@@ -1,0 +1,15 @@
+{
+  "short_name": "RAWADE",
+  "name": "RAWADE",
+  "icons": [
+    {
+      "src": "./assets/img/rawade.PNG",
+      "sizes": "259x91",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
